@@ -1,0 +1,3 @@
+[submodule "ims-frontend"]
+	path = ims-frontend
+	url = https://github.com/Karl-Adrian/ims-frontend.git
