@@ -1,3 +1,6 @@
 [submodule "ims-frontend"]
 	path = ims-frontend
 	url = https://github.com/Karl-Adrian/ims-frontend.git
+[submodule "technovation-ims-backend"]
+	path = technovation-ims-backend
+	url = https://github.com/Karl-Adrian/technovation-ims-backend.git
